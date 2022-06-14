@@ -1,0 +1,15 @@
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\bin\Debug\net6.0\Task1.exe
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\bin\Debug\net6.0\Task1.dll
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\bin\Debug\net6.0\Task1.pdb
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\obj\Debug\net6.0\Task1.dll
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\obj\Debug\net6.0\Task1.pdb
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\SweetSoft Tasks\Tasks\Tasks\Task1\Task1\obj\Debug\net6.0\ref\Task1.dll
