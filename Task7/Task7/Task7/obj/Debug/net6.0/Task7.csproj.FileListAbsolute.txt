@@ -1,0 +1,15 @@
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\obj\Debug\net6.0\Task7.csproj.AssemblyReference.cache
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\obj\Debug\net6.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\obj\Debug\net6.0\Task7.AssemblyInfoInputs.cache
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\obj\Debug\net6.0\Task7.AssemblyInfo.cs
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\obj\Debug\net6.0\Task7.csproj.CoreCompileInputs.cache
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\bin\Debug\net6.0\Task7.exe
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\bin\Debug\net6.0\Task7.deps.json
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\bin\Debug\net6.0\Task7.runtimeconfig.json
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\bin\Debug\net6.0\Task7.dll
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\bin\Debug\net6.0\Task7.pdb
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\obj\Debug\net6.0\Task7.dll
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\obj\Debug\net6.0\refint\Task7.dll
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\obj\Debug\net6.0\Task7.pdb
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\obj\Debug\net6.0\Task7.genruntimeconfig.cache
+D:\SweetSoft Tasks\Tasks\Tasks\Task7\Task7\Task7\obj\Debug\net6.0\ref\Task7.dll
