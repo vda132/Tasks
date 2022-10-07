@@ -14,7 +14,7 @@ var category = new Category("Електроника", tovars);
 Tovar[] tovarsForBasket = { new Tovar("Фонарик", 90, 3), new Tovar("Лампа", 100, 5) };
 
 var category1 = new Category("Електроника", tovarsForBasket);
-
+//wqw
 var basket = new Basket(tovarsForBasket);
 
 var user = new User("123456", "qwerty", basket);
